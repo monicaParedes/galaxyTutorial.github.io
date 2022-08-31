@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Monospace, Courier;
+  margin: 2em;
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 18px;
+  font-style: italic;
+  color: #9e2ed2;
+}
+
+.big {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+
+.wordStyle {
+  font-family: Monospace, Courier;
+  font-size: 16px;
+}
